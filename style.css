@@ -3,15 +3,24 @@
     height: 50vh;
     display: flex;
     flex-direction: column;
+    text-align: center;
+    size: 100cm;
+    border-radius: 15px;
+    border-color: black;
+    
 
 }
 
-.flex-container{
+.flex-container {
     display: flex;
-    justify-content: space-evenly;
+    width: 90vw;
     flex-wrap: wrap;
     align-items: center;
-    width: 90vw;
-    margin: 50px auto;
-    
+    justify-content: space-around;
+
+}
+
+.title{
+    text-align: center;
+    font-size: 300%;
 }
