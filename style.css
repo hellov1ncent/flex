@@ -1,0 +1,17 @@
+.card{
+    width: 27vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 90vw;
+    margin: 50px auto;
+    
+}
