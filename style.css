@@ -15,7 +15,7 @@
 
 .flex-container {
     display: flex;
-    width: 90vw;
+    width: 50vw;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
@@ -27,5 +27,5 @@
     font-size: 300%;
 }
 .image{
-    width: 60%;
+    width: 50%;
 }
