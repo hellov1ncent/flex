@@ -128,6 +128,7 @@ html, body {
     background-color: #FF7F50; 
     color: #FFF; 
     transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
 }
 
 /* Water */
@@ -135,6 +136,7 @@ html, body {
     background-color: #4682B4; 
     color: #FFF; 
     transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
 }
 
 /* Earth */
@@ -142,22 +144,54 @@ html, body {
     background-color: #8B4513; 
     color: #FFF; 
     transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
 }
 
-/* Shadow */
-.card.shadow:hover {
-    background-color: #333; 
+/* fairy */
+.card.fairy:hover {
+    background-color: palevioletred; 
     color: #FFF; 
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
     transform: scale(1.05);
 }
 
-/* Light */
-.card.light:hover {
+/* electric */
+.card.electric:hover {
     background-color: #FFFF99; 
     color: #333; 
     transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
 }
+/* dragon */
+.card.dragon:hover {
+    background-color: #355E3B; 
+    color: #333; 
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
+}
+/* ghost */
+.card.ghost:hover {
+    background-color: black; 
+    color: #333; 
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
+}
+/* ice */
+.card.ice:hover {
+    background-color:   #E4F6F8; 
+    color: #333; 
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
+}
+/* dark */
+.card.card.dark:hover:hover {
+    background-color:   #242526; 
+    color: #333; 
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
+}
+
+
 
 body {
     background-image: url('https://cdn.discordapp.com/attachments/1089013690566717551/1156035453347176448/2023_09_25_0zb_Kleki.png?ex=6513816a&is=65122fea&hm=b0eee9806f3ca7d16b30dccafc11a4170cab68a7782c02882a41271e003ec2a1&'); 
