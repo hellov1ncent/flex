@@ -106,12 +106,43 @@ html, body {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
 }
 /* dark */
-.card.card.dark:hover:hover {
+.card.dark:hover {
     background-color:   #242526; 
     color: #333; 
     animation: flip 6s;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
 }
+/* grass */
+.card.grass:hover {
+    background-color:   #cefad0; 
+    color: #333; 
+    animation: flip 6s;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
+}
+/* normal */
+.card.normal:hover {
+    background-color:   #008361; 
+    color: #333; 
+    animation: flip 6s;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
+}
+/* fight */
+.card.fight:hover {
+    background-color:   #595959; 
+    color: #333; 
+    animation: flip 6s;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
+}
+/* psychic */
+.card.psychic:hover {
+    background-color:   #D7BFDC; 
+    color: #333; 
+    animation: flip 6s;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
+}
+
+
+
 
 
 
