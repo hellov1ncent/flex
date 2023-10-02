@@ -1,8 +1,8 @@
 
-body {
+body,html {
+    background-image: url('https://cdn.discordapp.com/attachments/1089013690566717551/1156035453347176448/2023_09_25_0zb_Kleki.png?ex=6513816a&is=65122fea&hm=b0eee9806f3ca7d16b30dccafc11a4170cab68a7782c02882a41271e003ec2a1&'); 
+    background-attachment: fixed;
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    margin: 10%;
 }
 
 h1{
@@ -142,12 +142,7 @@ h1{
 
 
 
-body {
-    background-image: url('https://cdn.discordapp.com/attachments/1089013690566717551/1156035453347176448/2023_09_25_0zb_Kleki.png?ex=6513816a&is=65122fea&hm=b0eee9806f3ca7d16b30dccafc11a4170cab68a7782c02882a41271e003ec2a1&'); 
-    background-size: cover; 
-    background-repeat: no-repeat; 
-    background-attachment: fixed;
-}
+
     @keyframes flip {
         25% {
             transform: rotate(180deg);}
